@@ -1,0 +1,216 @@
+Codebook - Human Activity Recognition Using Smartphones Data Set
+
+Activity - character
+	Activity performed during data collection
+		walking
+		walkingupstairs
+		walkingdownstairs
+		sitting
+		standing
+		laying
+Subject - integer
+	Unique identifier for each of 30 study participants
+
+TimeSignalsBodyAccelerationMeanXaxis - numeric
+	Mean of the estimated acceleration of the body along the x axis in the time domain
+
+TimeSignalsBodyAccelerationMeanYaxis - numeric
+	Mean of the estimated acceleration of the body along the y axis in the time domain
+
+TimeSignalsBodyAccelerationMeanZaxis - numeric
+	Mean of the estimated acceleration of the body along the z axis in the time domain
+
+TimeSignalsBodyAccelerationStandardDeviationXaxis - numeric
+	Standard deviation of the estimated acceleration of the body along the x axis in the time domain
+
+TimeSignalsBodyAccelerationStandardDeviationYaxis - numeric
+	Standard deviation of the estimated acceleration of the body along the y axis in the time domain
+
+TimeSignalsBodyAccelerationStandardDeviationZaxis - numeric
+	Standard deviation of the estimated acceleration of the body along the z axis in the time domain
+
+TimeSignalsGravityAccelerationMeanXaxis - numeric
+	Mean of the acceleration due to gravity along the x axis in the time domain
+
+TimeSignalsGravityAccelerationMeanYaxis - numeric
+	Mean of the acceleration due to gravity along the y axis in the time domain
+
+TimeSignalsGravityAccelerationMeanZaxis - numeric
+	Mean of the acceleration due to gravity along the z axis in the time domain
+
+TimeSignalsGravityAccelerationStandardDeviationXaxis - numeric
+	Standard deviation of the acceleration due to gravity along the x axis in the time domain
+
+TimeSignalsGravityAccelerationStandardDeviationYaxis - numeric
+	Standard deviation of the acceleration due to gravity along the y axis in the time domain
+
+TimeSignalsGravityAccelerationStandardDeviationZaxis - numeric
+	Standard deviation of the acceleration due to gravity along the z axis in the time domain
+
+TimeSignalsBodyAccelerationJerkMeanXaxis - numeric
+	Mean of the rate of change in body acceleration along the x axis in the time domain
+
+TimeSignalsBodyAccelerationJerkMeanYaxis - numeric
+	Mean of the rate of change in body acceleration along the y axis in the time domain
+
+TimeSignalsBodyAccelerationJerkMeanZaxis - numeric
+	Mean of the rate of change in body acceleration along the z axis in the time domain
+
+TimeSignalsBodyAccelerationJerkStandardDeviationXaxis - numeric
+	Standard deviation of the rate of change in body acceleration along the x axis in the time domain
+
+TimeSignalsBodyAccelerationJerkStandardDeviationYaxis - numeric
+	Standard deviation of the rate of change in body acceleration along the y axis in the time domain
+
+TimeSignalsBodyAccelerationJerkStandardDeviationZaxis - numeric
+	Standard deviation of the rate of change in body acceleration along the z axis in the time domain
+
+TimeSignalsBodyVelocityMeanXaxis - numeric
+	Mean of the velocity of the body along the x axis in the time domain
+
+TimeSignalsBodyVelocityMeanYaxis - numeric
+	Mean of the velocity of the body along the y axis in the time domain
+
+TimeSignalsBodyVelocityMeanZaxis - numeric
+	Mean of the velocity of the body along the z axis in the time domain
+
+TimeSignalsBodyVelocityStandardDeviationXaxis - numeric
+	Standard deviation of the velocity of the body along the x axis in the time domain
+
+TimeSignalsBodyVelocityStandardDeviationYaxis - numeric
+	Standard deviation of the velocity of the body along the y axis in the time domain
+
+TimeSignalsBodyVelocityStandardDeviationZaxis - numeric
+	Standard deviation of the velocity of the body along the z axis in the time domain
+
+TimeSignalsBodyVelocityJerkMeanXaxis - numeric
+	Mean of the rate of change in body velocity along the x axis in the time domain
+
+TimeSignalsBodyVelocityJerkMeanYaxis - numeric
+	Mean of the rate of change in body velocity along the y axis in the time domain
+
+TimeSignalsBodyVelocityJerkMeanZaxis - numeric
+	Mean of the rate of change in body velocity along the z axis in the time domain
+
+TimeSignalsBodyVelocityJerkStandardDeviationXaxis - numeric
+	Standard deviation of the rate of change in body velocity along the x axis in the time domain
+
+TimeSignalsBodyVelocityJerkStandardDeviationYaxis - numeric
+	Standard deviation of the rate of change in body velocity along the y axis in the time domain
+
+TimeSignalsBodyVelocityJerkStandardDeviationZaxis - numeric
+	Standard deviation of the rate of change in body velocity along the z axis in the time domain
+
+TimeSignalsBodyAccelerationMagnitudeMean - numeric
+	Mean of the magnitude of the estimated body acceleration in the time domain
+
+TimeSignalsBodyAccelerationMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the estimated body acceleration in the time domain
+
+TimeSignalsGravityAccelerationMagnitudeMean - numeric
+	Mean of the magnitude of acceleration due to gravity in the time domain
+
+TimeSignalsGravityAccelerationMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of acceleration due to gravity in the time domain
+
+TimeSignalsBodyAccelerationJerkMagnitudeMean - numeric
+	Mean of the magnitude of the change in body acceleration in the time domain
+
+TimeSignalsBodyAccelerationJerkMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the change in body acceleration in the time domain
+
+TimeSignalsBodyVelocityMagnitudeMean - numeric
+	Mean of the magnitude of the body velocity in the time domain
+
+TimeSignalsBodyVelocityMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the body velocity in the time domain
+
+TimeSignalsBodyVelocityJerkMagnitudeMean - numeric
+	Mean of the magnitude of the rate of body velocity change in the time domain
+
+TimeSignalsBodyVelocityJerkMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the rate of body velocity change in the time domain
+
+FrequencySignalsBodyAccelerationMeanXaxis - numeric
+	Mean of the estimated acceleration of the body along the x axis in the frequency domain
+
+FrequencySignalsBodyAccelerationMeanYaxis - numeric
+	Mean of the estimated acceleration of the body along the y axis in the frequency domain
+
+FrequencySignalsBodyAccelerationMeanZaxis - numeric
+	Mean of the estimated acceleration of the body along the z axis in the frequency domain
+
+FrequencySignalsBodyAccelerationStandardDeviationXaxis - numeric
+	Standard deviation of the estimated acceleration of the body along the x axis in the frequency domain
+
+FrequencySignalsBodyAccelerationStandardDeviationYaxis - numeric
+	Standard deviation of the estimated acceleration of the body along the y axis in the frequency domain
+
+FrequencySignalsBodyAccelerationStandardDeviationZaxis - numeric
+	Standard deviation of the estimated acceleration of the body along the z axis in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkMeanXaxis - numeric
+	Mean of the rate of change in body acceleration along the x axis in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkMeanYaxis - numeric
+	Mean of the rate of change in body acceleration along the y axis in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkMeanZaxis - numeric
+	Mean of the rate of change in body acceleration along the z axis in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkStandardDeviationXaxis - numeric
+	Standard deviation of the rate of change in body acceleration along the x axis in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkStandardDeviationYaxis - numeric
+	Standard deviation of the rate of change in body acceleration along the y axis in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkStandardDeviationZaxis - numeric
+	Standard deviation of the rate of change in body acceleration along the z axis in the frequency domain
+
+FrequencySignalsBodyVelocityMeanXaxis - numeric
+	Mean of the velocity of the body along the x axis in the frequency domain
+
+FrequencySignalsBodyVelocityMeanYaxis - numeric
+	Mean of the velocity of the body along the y axis in the frequency domain
+
+FrequencySignalsBodyVelocityMeanZaxis - numeric
+	Mean of the velocity of the body along the z axis in the frequency domain
+
+FrequencySignalsBodyVelocityStandardDeviationXaxis - numeric
+	Standard deviation of the velocity of the body along the x axis in the frequency domain
+
+FrequencySignalsBodyVelocityStandardDeviationYaxis - numeric
+	Standard deviation of the velocity of the body along the y axis in the frequency domain
+
+FrequencySignalsBodyVelocityStandardDeviationZaxis - numeric
+	Standard deviation of the velocity of the body along the z axis in the frequency domain
+
+FrequencySignalsBodyAccelerationMagnitudeMean - numeric
+	Mean of the magnitude of the estimated body acceleration in the frequency domain
+
+FrequencySignalsBodyAccelerationMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the estimated body acceleration in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkMagnitudeMean - numeric
+	Mean of the magnitude of the change in body acceleration in the frequency domain
+
+FrequencySignalsBodyAccelerationJerkMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the change in body acceleration in the frequency domain
+
+FrequencySignalsBodyVelocityMagnitudeMean - numeric
+	Mean of the magnitude of the body velocity in the frequency domain
+
+FrequencySignalsBodyVelocityMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the body velocity in the frequency domain
+
+FrequencySignalsBodyVelocityJerkMagnitudeMean - numeric
+	Mean of the magnitude of the rate of body velocity change in the frequency domain
+
+FrequencySignalsBodyVelocityJerkMagnitudeStandardDeviation - numeric
+	Standard deviation of the magnitude of the rate of body velocity change in the frequency domain
+
+Note:  All numeric variables are normalized and bound between [-1, 1], so no units are included.
+
+Citations:  This data was derived from an original data set. The original data set, and more information about it can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
